@@ -1414,6 +1414,7 @@ function playIndex(idx) {
   document.getElementById('p-sub').textContent = `${song.artist || DATA.artist.name} • ${song.album || ''}`;
   document.getElementById('player').classList.add('visible');
   audio.play();
+  try { if (typeof gtag === 'function') gtag('event', 'play_song', { song_id: song.id, song_title: song.title, artist: song.artist || DATA.artist.name, album: song.album || '' }); } catch(e) {}
   document.getElementById('p-playbtn').innerHTML = '&#10074;&#10074;';
   // Show song art in the album section
   updateNowPlayingArt(song);
