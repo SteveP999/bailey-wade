@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "bailey-wade-half-drunk-and-honest",
+    "num": "01",
+    "title": "Half Drunk & Honest",
+    "artist": "Bailey Wade",
+    "album": "Queen of Broken Hearts",
+    "trackNumber": 1,
+    "albumOrder": 1,
+    "albumCover": "images/covers/bailey-wade-queen-of-broken-hearts-ALBUM-cover.png",
+    "type": "single",
+    "isLatest": true,
+    "cover": "images/covers/bailey-wade-half-drunk-and-honest-cover.png",
+    "audio": "https://www.dropbox.com/scl/fi/4qv3nkjxktokbnnsafaxy/Half-Drunk-Honest.mp3?rlkey=xgew863v5h0n0hul0d2zgw8kp&raw=1",
+    "audioSrc": "https://www.dropbox.com/scl/fi/4qv3nkjxktokbnnsafaxy/Half-Drunk-Honest.mp3?rlkey=xgew863v5h0n0hul0d2zgw8kp&raw=1",
+    "videos": [],
+    "includeOnRadio": true,
+    "includeOnHomepage": true,
+    "explicit": false,
+    "tags": []
+  }
+]

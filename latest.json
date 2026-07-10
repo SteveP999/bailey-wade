@@ -1,11 +1,11 @@
 {
-  "title": "New Music Coming Soon",
+  "title": "Half Drunk & Honest",
   "artist": "Bailey Wade",
-  "album": "",
+  "album": "Queen of Broken Hearts",
   "type": "Latest Single",
-  "cover": "",
-  "image": "",
-  "audio": "",
-  "audioSrc": "",
+  "cover": "images/covers/bailey-wade-half-drunk-and-honest-cover.png",
+  "image": "images/covers/bailey-wade-half-drunk-and-honest-cover.png",
+  "audio": "https://www.dropbox.com/scl/fi/4qv3nkjxktokbnnsafaxy/Half-Drunk-Honest.mp3?rlkey=xgew863v5h0n0hul0d2zgw8kp&raw=1",
+  "audioSrc": "https://www.dropbox.com/scl/fi/4qv3nkjxktokbnnsafaxy/Half-Drunk-Honest.mp3?rlkey=xgew863v5h0n0hul0d2zgw8kp&raw=1",
   "videos": []
 }

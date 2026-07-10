@@ -2,12 +2,21 @@
   "artist": "Bailey Wade",
   "latestUrl": "latest.json",
   "featuredTrack": {
-    "title": "",
+    "title": "Half Drunk & Honest",
     "artist": "Bailey Wade",
-    "album": "",
-    "cover": "",
-    "audioSrc": "",
+    "album": "Queen of Broken Hearts",
+    "cover": "images/covers/bailey-wade-half-drunk-and-honest-cover.png",
+    "audioSrc": "https://www.dropbox.com/scl/fi/4qv3nkjxktokbnnsafaxy/Half-Drunk-Honest.mp3?rlkey=xgew863v5h0n0hul0d2zgw8kp&raw=1",
     "videos": []
   },
-  "tracks": []
+  "tracks": [
+    {
+      "title": "Half Drunk & Honest",
+      "artist": "Bailey Wade",
+      "album": "Queen of Broken Hearts",
+      "cover": "images/covers/bailey-wade-half-drunk-and-honest-cover.png",
+      "audioSrc": "https://www.dropbox.com/scl/fi/4qv3nkjxktokbnnsafaxy/Half-Drunk-Honest.mp3?rlkey=xgew863v5h0n0hul0d2zgw8kp&raw=1",
+      "videos": []
+    }
+  ]
 }
