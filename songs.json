@@ -58,5 +58,26 @@
     "includeOnHomepage": true,
     "explicit": false,
     "tags": []
+  },
+  {
+    "id": "bailey-wade-close-to-taylor",
+    "num": "04",
+    "title": "Close to Taylor",
+    "artist": "Bailey Wade",
+    "album": "Queen of Broken Hearts",
+    "trackNumber": 4,
+    "albumOrder": 4,
+    "albumCover": "",
+    "type": "single",
+    "isLatest": false,
+    "cover": "images/covers/bailey-wade-close-to-taylor-cover.png",
+    "audio": "https://www.dropbox.com/scl/fi/paoth12bez8u9bf7cv1d1/bailey-wade-close-to-taylor-MP3-mastered.mp3?rlkey=n083fmvv1sda6hwhto0ui013x&raw=1",
+    "audioSrc": "https://www.dropbox.com/scl/fi/paoth12bez8u9bf7cv1d1/bailey-wade-close-to-taylor-MP3-mastered.mp3?rlkey=n083fmvv1sda6hwhto0ui013x&raw=1",
+    "videos": [],
+    "includeOnRadio": true,
+    "includeOnHomepage": false,
+    "explicit": false,
+    "tags": [],
+    "streaming": {}
   }
 ]
