@@ -17,7 +17,8 @@
     "includeOnRadio": true,
     "includeOnHomepage": false,
     "explicit": false,
-    "tags": []
+    "tags": [],
+    "streaming": {}
   },
   {
     "id": "bailey-wade-stay-gone",
@@ -33,11 +34,22 @@
     "cover": "images/covers/bailey-wade-stay-gone-cover.png",
     "audio": "https://www.dropbox.com/scl/fi/robykblwlsvw6dnvoxpnl/bailey-wade-stay-gone-mp3-v02.mp3?rlkey=jn2jzikvv6bq76w58ca68bgm6&raw=1",
     "audioSrc": "https://www.dropbox.com/scl/fi/robykblwlsvw6dnvoxpnl/bailey-wade-stay-gone-mp3-v02.mp3?rlkey=jn2jzikvv6bq76w58ca68bgm6&raw=1",
-    "videos": [],
+    "videos": [
+      {
+        "youtube": "https://youtu.be/nZepmSyCRDY?si=y-sh5KkZU_PNbc6e",
+        "title": "Official Video",
+        "order": 1
+      }
+    ],
     "includeOnRadio": true,
     "includeOnHomepage": false,
     "explicit": false,
-    "tags": []
+    "tags": [],
+    "streaming": {
+      "spotify": "",
+      "apple": "",
+      "youtubeMusic": ""
+    }
   },
   {
     "id": "bailey-wade-whats-left-of-me",
@@ -57,7 +69,12 @@
     "includeOnRadio": true,
     "includeOnHomepage": false,
     "explicit": false,
-    "tags": []
+    "tags": [],
+    "streaming": {
+      "spotify": "",
+      "apple": "",
+      "youtubeMusic": ""
+    }
   },
   {
     "id": "bailey-wade-close-to-taylor",
@@ -67,7 +84,7 @@
     "album": "Queen of Broken Hearts",
     "trackNumber": 4,
     "albumOrder": 4,
-    "albumCover": "",
+    "albumCover": "images/covers/bailey-wade-queen-of-broken-hearts-ALBUM-cover.png",
     "type": "single",
     "isLatest": false,
     "cover": "images/covers/bailey-wade-close-to-taylor-cover.png",
@@ -78,17 +95,21 @@
     "includeOnHomepage": false,
     "explicit": false,
     "tags": [],
-    "streaming": {}
+    "streaming": {
+      "spotify": "",
+      "apple": "",
+      "youtubeMusic": ""
+    }
   },
   {
     "id": "bailey-wade-well-enough",
-    "num": "01",
+    "num": "05",
     "title": "Well Enough",
     "artist": "Bailey Wade",
     "album": "Queen of Broken Hearts",
-    "trackNumber": 99,
-    "albumOrder": 99,
-    "albumCover": "",
+    "trackNumber": 5,
+    "albumOrder": 5,
+    "albumCover": "images/covers/bailey-wade-queen-of-broken-hearts-ALBUM-cover.png",
     "type": "single",
     "isLatest": true,
     "cover": "images/covers/bailey-wade-well-enough-cover.png",
@@ -99,6 +120,10 @@
     "includeOnHomepage": true,
     "explicit": false,
     "tags": [],
-    "streaming": {}
+    "streaming": {
+      "spotify": "",
+      "apple": "",
+      "youtubeMusic": ""
+    }
   }
 ]

@@ -2,11 +2,11 @@
   "artist": "Bailey Wade",
   "latestUrl": "latest.json",
   "featuredTrack": {
-    "title": "What's Left of Me",
+    "title": "Well Enough",
     "artist": "Bailey Wade",
     "album": "Queen of Broken Hearts",
-    "cover": "images/covers/bailey-wade-whats-left-of-me-cover.png",
-    "audioSrc": "https://www.dropbox.com/scl/fi/7s6u6cv93xjczhetktxy6/baily-wade-whats-left-of-me-MP3.mp3?rlkey=9lu56iqi6hamohkreqiojim8y&raw=1",
+    "cover": "images/covers/bailey-wade-well-enough-cover.png",
+    "audioSrc": "https://www.dropbox.com/scl/fi/cfuuunesvq4u2302odhdb/bailey-wade-well-enough-MP3-mastered.mp3?rlkey=1n0zggktfnpd65cnwcs4bw7n3&raw=1",
     "videos": []
   },
   "tracks": [
@@ -24,7 +24,13 @@
       "album": "Queen of Broken Hearts",
       "cover": "images/covers/bailey-wade-stay-gone-cover.png",
       "audioSrc": "https://www.dropbox.com/scl/fi/robykblwlsvw6dnvoxpnl/bailey-wade-stay-gone-mp3-v02.mp3?rlkey=jn2jzikvv6bq76w58ca68bgm6&raw=1",
-      "videos": []
+      "videos": [
+        {
+          "youtube": "https://youtu.be/nZepmSyCRDY?si=y-sh5KkZU_PNbc6e",
+          "title": "Official Video",
+          "order": 1
+        }
+      ]
     },
     {
       "title": "What's Left of Me",
@@ -32,6 +38,14 @@
       "album": "Queen of Broken Hearts",
       "cover": "images/covers/bailey-wade-whats-left-of-me-cover.png",
       "audioSrc": "https://www.dropbox.com/scl/fi/7s6u6cv93xjczhetktxy6/baily-wade-whats-left-of-me-MP3.mp3?rlkey=9lu56iqi6hamohkreqiojim8y&raw=1",
+      "videos": []
+    },
+    {
+      "title": "Close to Taylor",
+      "artist": "Bailey Wade",
+      "album": "Queen of Broken Hearts",
+      "cover": "images/covers/bailey-wade-close-to-taylor-cover.png",
+      "audioSrc": "https://www.dropbox.com/scl/fi/paoth12bez8u9bf7cv1d1/bailey-wade-close-to-taylor-MP3-mastered.mp3?rlkey=n083fmvv1sda6hwhto0ui013x&raw=1",
       "videos": []
     }
   ]
